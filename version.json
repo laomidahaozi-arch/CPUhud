@@ -1,6 +1,6 @@
 {
-  "versionCode": 117,
-  "versionName": "1.40.5-beta",
-  "url": "https://gcore.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud-1.40.5.apk",
-  "notes": "临时 root 多路径探测 + Root 诊断行；关悬浮窗自动停 TimeStats"
+  "versionCode": 128,
+  "versionName": "1.40.16",
+  "url": "https://gcore.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
+  "notes": "修功耗 -4000W（电压 µV 归一）；横屏细带曲线加宽；竖屏/横屏两套形态"
 }
