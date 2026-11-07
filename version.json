@@ -1,6 +1,6 @@
 {
-  "versionCode": 149,
-  "versionName": "1.45.0",
-  "url": "https://gcore.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "P1 完成：GPU 占用率（13 个节点全覆盖）+ 自适应采样（游戏中 1 秒/静止 2 秒）+ 自检给修复建议 + 每天自动存样本 + 节点清单集中到 NodeMap"
+  "versionCode": 150,
+  "versionName": "1.45.1",
+  "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
+  "notes": "P1 收尾：下载后校验 + 下载源换 cdn"
 }
