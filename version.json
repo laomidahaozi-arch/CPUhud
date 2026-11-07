@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "1.40.16",
+  "versionCode": 149,
+  "versionName": "1.45.0",
   "url": "https://gcore.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "修功耗 -4000W（电压 µV 归一）；横屏细带曲线加宽；竖屏/横屏两套形态"
+  "notes": "P1 完成：GPU 占用率（13 个节点全覆盖）+ 自适应采样（游戏中 1 秒/静止 2 秒）+ 自检给修复建议 + 每天自动存样本 + 节点清单集中到 NodeMap"
 }
