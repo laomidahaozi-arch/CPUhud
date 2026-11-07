@@ -1,6 +1,6 @@
 {
-  "versionCode": 150,
-  "versionName": "1.45.1",
+  "versionCode": 152,
+  "versionName": "1.45.3",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "P1 收尾：下载后校验 + 下载源换 cdn"
+  "notes": "更新检查加 GitHub API 兜底（绕过 CDN 缓存）"
 }
