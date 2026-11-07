@@ -1,6 +1,6 @@
 {
-  "versionCode": 152,
-  "versionName": "1.45.3",
+  "versionCode": 156,
+  "versionName": "1.45.7",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "更新检查加 GitHub API 兜底（绕过 CDN 缓存）"
+  "notes": "修更新检查：raw.githubusercontent 源真正生效（之前地址转换写反，这一路从没被尝试过）；现在会同时问 raw/cdn/fastly/gcore/GitHub API 并取版本号最大的一份，界面显示各源明细"
 }
