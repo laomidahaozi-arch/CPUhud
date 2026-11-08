@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-11-08",
+  "note": "机型标称参数库（远端版）。只写有公开来源的字段，没有就整个字段删掉。App 会在 24 小时内自动拉取；也可以在「设备信息 → 标称库」里手动同步。",
+  "entries": {
+    "PMB110": {
+      "name": "一加 Ace 6 至尊版",
+      "brand": "OnePlus",
+      "release": "2026-04",
+      "soc": "MT6993",
+      "screen": {
+        "size": 6.78,
+        "res": "1272×2772",
+        "panel": "1.5K LTPS 直屏（京东方 BOE）",
+        "hz": 165,
+        "touch_hz": 4000
+      },
+      "battery": {
+        "capacity": 8600,
+        "cells": 2,
+        "charge_w": 120,
+        "protocol": "SuperVOOC 有线"
+      },
+      "camera": {
+        "main": "50MP 1/1.55″",
+        "ultrawide": "8MP",
+        "selfie": "16MP",
+        "count": 3,
+        "note": "系统暴露 4 个 camera id（主摄有 30/60fps 两个 id），物理摄像头为 3 颗"
+      },
+      "audio": {
+        "stereo": true,
+        "spatial": true
+      },
+      "sources": [
+        "https://www.ithome.com/0/944/669.htm"
+      ]
+    }
+  },
+  "socs": {
+    "MT6993": {
+      "name": "天玑 9500",
+      "node": "台积电 N3P",
+      "cores": "1× C1-Ultra 4.21GHz + 3× C1-Premium 3.50GHz + 4× C1-Pro 2.70GHz",
+      "gpu": "Mali-G1-Ultra MC12"
+    }
+  }
+}

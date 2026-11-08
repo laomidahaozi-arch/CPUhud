@@ -1,6 +1,6 @@
 {
-  "versionCode": 169,
-  "versionName": "1.45.20",
+  "versionCode": 170,
+  "versionName": "1.45.21",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "诊断：有 shell 时不再误报直读不可用"
+  "notes": "标称库支持远端更新 + 功耗来源日志"
 }
