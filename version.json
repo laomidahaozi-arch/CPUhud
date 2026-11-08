@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "versionName": "1.45.11",
+  "versionCode": 161,
+  "versionName": "1.45.12",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "修 9300+ 识别（主频兜底直读）"
+  "notes": "修缓存命中把 9300+ 冲回 9300"
 }
