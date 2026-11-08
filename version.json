@@ -1,6 +1,6 @@
 {
-  "versionCode": 162,
-  "versionName": "1.45.13",
+  "versionCode": 163,
+  "versionName": "1.45.14",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "失败文件自动清理 + 诊断文件只留最近5份"
+  "notes": "修功耗符号矛盾 + 电源节点导出按设备分组"
 }
