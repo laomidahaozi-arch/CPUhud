@@ -1,6 +1,6 @@
 {
-  "versionCode": 172,
-  "versionName": "1.46.1",
+  "versionCode": 185,
+  "versionName": "1.50.1",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "修验机报告按钮不可见"
+  "notes": "按键整理 + 记录曲线 + 小组件自适应"
 }
