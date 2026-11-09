@@ -1,6 +1,6 @@
 {
-  "versionCode": 187,
-  "versionName": "1.52.0",
+  "versionCode": 192,
+  "versionName": "1.56.0",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "曲线精细化 + 设备信息并行采集"
+  "notes": "常驻省电档 + 采集耗时诊断"
 }
