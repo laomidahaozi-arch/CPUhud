@@ -1,6 +1,6 @@
 {
-  "versionCode": 192,
-  "versionName": "1.56.0",
+  "versionCode": 197,
+  "versionName": "1.60.0",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "常驻省电档 + 采集耗时诊断"
+  "notes": "性能记录按游戏分段"
 }
