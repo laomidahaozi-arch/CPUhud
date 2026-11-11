@@ -1,6 +1,6 @@
 {
-  "versionCode": 198,
-  "versionName": "1.60.1",
+  "versionCode": 206,
+  "versionName": "1.68.0",
   "url": "https://cdn.jsdelivr.net/gh/laomidahaOzi-arch/CPUhud@main/cpuhud.apk",
-  "notes": "安装包瘦身 72%"
+  "notes": "频率分簇图例 + 滑动与单位修复"
 }
